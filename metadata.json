@@ -1,0 +1,8 @@
+{
+  "name": "SUPPLY CHAIN IQ",
+  "description": "AI-Powered Supply Chain Risk Intelligence, Machine Learning Model Benchmarking, Predictive Analytics, and Decision Support System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
